@@ -1,0 +1,23 @@
+{
+  "name": "paginapessoal3",
+  "version": "1.0.0",
+  "description": "Página Pessoal do André Bordignon",
+  "main": "index.html",
+  "scripts": {
+    "start":"lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wab030/paginapessoal3.git"
+  },
+  "author": "André Luís Bordignon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wab030/paginapessoal3/issues"
+  },
+  "homepage": "https://github.com/wab030/paginapessoal3#readme",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
